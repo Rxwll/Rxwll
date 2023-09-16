@@ -1,4 +1,5 @@
-Hello!, my name is Raul o/
+  Hello!, my name is Raul 👋
+
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
 
