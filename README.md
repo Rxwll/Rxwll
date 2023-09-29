@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in learn about new topics!!
 - 🌱 I’m currently studing in P'urhepecha Higher Technological Institute
-- 
 
 <!---
 Rxwll/Rxwll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
