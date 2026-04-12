@@ -1,10 +1,4 @@
-Hello!, my name is Raul 👋
+Hello!, my name is Raul and i like linux 🐧
 
-I’m interested in learn about new topics!!
-I’m currently studing
+i usually upload here my school projects and some others things
 
-
-<!---
-Rxwll/Rxwll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
